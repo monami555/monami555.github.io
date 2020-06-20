@@ -1,3 +1,4 @@
+markdown: kramdown
 error_mode: lax
 plugins:
   - jekyll-redirect-from
