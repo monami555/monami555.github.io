@@ -1,6 +1,5 @@
 ---
-layout: redirected
-sitemap: false
-permalink: /
-redirect_to:  http://monikma.github.io/
+redirect_from:
+  - /
+  - http://monikma.github.io/
 ---
